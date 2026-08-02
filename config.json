@@ -1,8 +1,8 @@
 {
-  "version": 2,
+  "version": 3,
   "proxies": [
     {
-      "name": "Zeus Panel",
+      "name": "my-proxyali",
       "url": "https://my-proxyali.ali-dabiri1.workers.dev/",
       "isActive": true
     }
@@ -16,9 +16,9 @@
     "a3c969fb"
   ],
   "notification": {
-    "id": 0,
-    "title": "",
-    "message": "",
+    "id": 1,
+    "title": "تست",
+    "message": "TEST",
     "actionUrl": ""
   }
 }
