@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "proxies": [
+    {
+      "name": "Zeus Panel",
+      "url": "https://my-proxyali.ali-dabiri1.workers.dev/",
+      "isActive": true
+    }
+  ],
+  "tmdb_api_keys": [
+    "a8a9cd082993b9e77b813263981e408b",
+    "c0d46b49ab0f16cd8f7101f2d49defc9"
+  ],
+  "omdb_api_keys": [
+    "14722d17",
+    "a3c969fb"
+  ],
+  "notification": {
+    "id": 0,
+    "title": "",
+    "message": "",
+    "actionUrl": ""
+  }
+}
